@@ -18,7 +18,7 @@ The component asynchronously provides device info to a parent component.
 ### Example Usage
 See the example app [InfoGlassExampleApp](/example/InfoGlassExampleApp) in the examples directory.
 
-JSX code snippet from example app ...
+JSX code snippet from the example app ...
 ```
 <View style={styles.container}>
   <Text>🔍 InfoGlass Example App 💡</Text>
@@ -31,9 +31,14 @@ JSX code snippet from example app ...
 </View>
 ```
 
-Screenshot of example app.
+Screenshots of the example app.
 
+* iOS
 ![Screen Shot](https://raw.githubusercontent.com/starpebble/info-glass/master/example/InfoGlassExampleApp/info-glass-example-app-screenshot.png "info-glass screenshot")
+
+* Android
+
+![Screen Shot](https://raw.githubusercontent.com/starpebble/info-glass/master/example/InfoGlassExampleApp/info-glass-example-app-android-screenshot.png "info-glass screenshot")
 
 ### Questions
 
