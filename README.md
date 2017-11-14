@@ -1,5 +1,5 @@
 # info-glass
-A pure javascript react native component to get info about a device, e.g. OS, manufacturer, and model.
+A pure javascript react native component to get info about a mobile device, e.g. OS, manufacturer, and model.
 
 [![npm version](https://badge.fury.io/js/info-glass.svg)](https://badge.fury.io/js/info-glass)
 
@@ -7,7 +7,7 @@ A pure javascript react native component to get info about a device, e.g. OS, ma
 
 info-glass is a [react native](https://facebook.github.io/react-native/) component that provides device info. info-glass can provide:
 
-* OS
+* OS name and version
 * manufacturer
 * model
 
@@ -33,10 +33,11 @@ JSX code snippet from the example app ...
 
 Screenshots of the example app.
 
-* iOS
+###### iOS
+
 ![Screen Shot](https://raw.githubusercontent.com/starpebble/info-glass/master/example/InfoGlassExampleApp/info-glass-example-app-screenshot.png "info-glass screenshot")
 
-* Android
+###### Android
 
 ![Screen Shot](https://raw.githubusercontent.com/starpebble/info-glass/master/example/InfoGlassExampleApp/info-glass-example-app-android-screenshot.png "info-glass screenshot")
 
