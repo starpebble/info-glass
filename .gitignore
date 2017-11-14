@@ -1,0 +1,6 @@
+node_modules
+example/InfoGlassExampleApp/.babelrc
+example/InfoGlassExampleApp/.flowconfig
+example/InfoGlassExampleApp/.gitignore
+example/InfoGlassExampleApp/.watchmanconfig
+.gitignore

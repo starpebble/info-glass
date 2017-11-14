@@ -1,0 +1,27 @@
+{
+  "name": "info-glass",
+  "version": "1.0.2",
+  "description": "A pure javascript react native component to get info about the mobile device, e.g. OS, manufacturer, and model.",
+  "main": "infoglass.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/starpebble/info-glass.git"
+  },
+  "keywords": [
+    "react-native",
+    "javascript",
+    "component"
+  ],
+  "author": "starpebble (github@spicykey.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/starpebble/info-glass/issues"
+  },
+  "homepage": "https://github.com/starpebble/info-glass#readme",
+  "dependencies": {
+    "ua-parser-js": "^0.7.17"
+  }
+}
