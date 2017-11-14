@@ -1,6 +1,6 @@
 {
   "name": "info-glass",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A pure javascript react native component to get info about the mobile device, e.g. OS, manufacturer, and model.",
   "main": "infoglass.js",
   "scripts": {
